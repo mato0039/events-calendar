@@ -14,17 +14,16 @@ td {
 
 td {
   height: 9.5rem;
-  text-align: right;
 }
 
-p {
+.input {
   border-radius: 8px;
 }
 
 .grey {
   background-color: #f2f2f2;
   border: 1px solid #666;
-  color: #666;
+  color: #333;
 }
 
 .red {
